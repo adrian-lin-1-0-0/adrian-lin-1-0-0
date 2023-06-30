@@ -17,4 +17,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=@adrian_lin&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[](https://visitcount.itsvg.in/api?id=adrian-lin-1-0-0)
+<details><summary></summary>
+    <img src="https://visitcount.itsvg.in/api?id=adrian-lin-1-0-0" />
+</details>
