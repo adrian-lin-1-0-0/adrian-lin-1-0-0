@@ -9,13 +9,10 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=adrian-lin-1-0-0&theme=onedark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adrian-lin-1-0-0&theme=onedark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-lin-1-0-0&theme=onedark)
 
 ![](https://github-profile-trophy.vercel.app/?username=adrian-lin-1-0-0&theme=onedark)
 
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=@adrian_lin&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <details><summary></summary>
     <img src="https://visitcount.itsvg.in/api?id=adrian-lin-1-0-0" />
