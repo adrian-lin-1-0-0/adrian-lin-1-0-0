@@ -12,6 +12,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=adrian-lin-1-0-0&theme=onedark)
 
+[![wakatime](https://wakatime.com/badge/user/a46ffa21-bc81-4c9d-b87f-2e9c350588ed.svg)](https://wakatime.com/@a46ffa21-bc81-4c9d-b87f-2e9c350588ed)<br>
+[![Adrian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrian_lin&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details><summary></summary>
