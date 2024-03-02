@@ -1,10 +1,11 @@
-## About
+## About Me
+I enjoy problem-solving, and my LeetCode rating is 2000+.
+
 Possess a strong understanding of data structures and algorithms, 
 with a specialization in networking and distributed systems knowledge.
 
 - Golang /Node.js /C++ /Python
 - OOP
-- Problem solving | Leetcode rating 2000+
 - Network knowledge
 - Distributed system
 - Linux
