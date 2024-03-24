@@ -10,6 +10,9 @@ with a specialization in networking and distributed systems knowledge.
 - Distributed system
 - Linux
 
+## Gist
+[https://gist.github.com/adrian-lin-1-0-0](https://gist.github.com/adrian-lin-1-0-0)
+
 ## Certifications
 <div align="left">
     <img width="150" height="150" src="https://images.credly.com/size/200x200/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="trophy" />
