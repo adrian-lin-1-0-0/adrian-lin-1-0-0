@@ -1,5 +1,5 @@
 ## About Me
-I enjoy problem-solving, and my LeetCode rating is 2000+.
+I enjoy problem-solving, and my LeetCode rating is 2100+.
 
 Possess a strong understanding of data structures and algorithms, 
 with a specialization in networking and distributed systems knowledge.
